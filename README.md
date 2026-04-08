@@ -69,7 +69,3 @@ style="padding-right: 10px;"
                     
 <br/>
 <br/>
-
-### 📊 Estatísticas                    
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolevicabralpiotto&show_icons=true&theme=merko&locale=pt-br)
